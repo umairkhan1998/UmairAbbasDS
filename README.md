@@ -12,8 +12,8 @@ I am eager to contribute to projects related to data science, machine learning, 
 
 📫 Connect With Me:
 
-Email: [your.email@example.com]
-LinkedIn: Your LinkedIn Profile
+Email: umairkhan.jk1998@gmail.com
+LinkedIn: www.linkedin.com/in/umair-abbas-326650266
 😄 Pronouns: He/Him
 ⚡ Fun Fact: Beyond data analytics, I enjoy coding small AI-powered applications and games. I’m also an avid reader, always seeking my next compelling read! 📚🤖
 
